@@ -18,4 +18,4 @@
 
 4.In a project how many remote Git repositories do you usually have?
   -> There is usually 1 main remote Git repository. Although, there are certain practices which make the need of multiple remote repositories come into play.
-  -> Usually, the best practice is to create your own copy, a.k.a. fork, of the main remote repository and then update code on the branch of the copy. This allows for a clean master code.
+  -> Usually, the best practice is to create your own copy, a.k.a. fork, of the main remote repository and then update code on the branch of the copy. This allows for a clean master code
